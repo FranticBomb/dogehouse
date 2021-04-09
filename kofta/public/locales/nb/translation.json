@@ -40,7 +40,7 @@
     "home": {
       "createRoom": "Lag et rom",
       "refresh": "Last inn på nytt",
-      "editRoom": "Edit Room"
+      "editRoom": "Rediger rom"
     },
     "inviteList": {
       "roomGone": "Rommet finnes ikke lengre, gå tilbake",
@@ -85,8 +85,8 @@
     "viewUser": {
       "editProfile": "Rediger profil",
       "followsYou": "Følger deg",
-      "followers": "følgere",
-      "following": "følger",
+      "followers": "Følgere",
+      "following": "Følger",
       "followHim": "Følg",
       "followingHim": "Følger",
       "copyProfileUrl": "Kopiér profil URL",
@@ -148,7 +148,7 @@
       "listening": "Lytter",
       "toggleMuteKeybind": "Veksle demping av hurtigtast",
       "togglePushToTalkKeybind": "Veksle trykk for å snakke hurtigtast",
-      "toggleOverlayKeybind": "Overlay hurtigtast"
+      "toggleOverlayKeybind": "Overlegg hurtigtast"
     },
     "userVolumeSlider": {
       "noAudioMessage": "Ingen lydmottaker av en eller annen grunn"
